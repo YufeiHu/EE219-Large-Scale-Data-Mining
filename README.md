@@ -1,6 +1,6 @@
 # EE219_Large_Scale_Data_Mining
 Large-Scale Data Mining: Models and Algorithms (19 Winter)
-- Programing: Python
+1. Programing: Python
 
 ## Project 1: Classification Analysis on Textual Data
 
