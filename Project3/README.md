@@ -1,4 +1,4 @@
-# Project 3: Classification Analysis on Textual Data
+# Project 3: Classification Analysis on Textual Data (Project Score = 99 / 100)
 
 ## MovieLens Dataset
 
