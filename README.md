@@ -1,4 +1,4 @@
-# EE219_Large_Scale_Data_Mining
+# EE-219-Large-Scale-Data-Mining
 Large-Scale Data Mining: Models and Algorithms (19 Winter)
 1. Programing: Python
 
