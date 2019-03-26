@@ -1,4 +1,4 @@
-# Project 2: Clustering (Project Score = 99/100)
+# Project 2: Clustering (Project Score = 99 / 100)
 
 1. Build the TF-IDF matrix.
 2. Apply K-means clustering
