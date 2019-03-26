@@ -1,4 +1,4 @@
-# Project 1: Classification Analysis on Textual Data (Project Score = 99/100)
+# Project 1: Classification Analysis on Textual Data (Project Score = 99 / 100)
 
 ## Feature Extraction
 
