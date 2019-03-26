@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Getting familiar with the dataset}{}% 1
+\BOOKMARK [1][-]{section.2}{Binary Classification}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Feature Extraction}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Dimensionality Reduction}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Classification Algorithms}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.3.1}{SVM}{subsection.2.3}% 6
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Logistic Regression}{subsection.2.3}% 7
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Naive Bayes}{subsection.2.3}% 8
+\BOOKMARK [3][-]{subsubsection.2.3.4}{Grid Search of Parameters}{subsection.2.3}% 9
+\BOOKMARK [1][-]{section.3}{Multiclass Classification}{}% 10
