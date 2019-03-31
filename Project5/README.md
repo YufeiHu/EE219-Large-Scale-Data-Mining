@@ -1,4 +1,4 @@
-# Project 5: Application - Twitter data
+# Project 5: Application - Twitter data (Project Score = 95 / 100)
 
 ## Popularity Prediction
 1. A first look at the data
